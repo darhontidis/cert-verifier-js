@@ -45,7 +45,7 @@
       },
       "blockchain": {
         "label": "Verified",
-        "description": "This is a valid ${chain} certificate.",
+        "description": "This Blockcert was validated by ${chain}.",
         "linkText": "View transaction link"
       }
     },
